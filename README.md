@@ -14,4 +14,4 @@ Il s'agit pour le moment d'une phase d'apprentissage. Mes idées sont susceptibl
 - [PHILIPPE Teva](https://github.com/TevaPhilippe05)
 
 ## Mention spéciale
-- [Eddy](https://github.com/synnfall) <- M'a aidé à mettre en place mon premier serveur Minecraft et à commencer à coder un plugin.
+- [GUYON Eddy](https://github.com/synnfall) <- M'a aidé à mettre en place mon premier serveur Minecraft et à commencer à coder un plugin.
