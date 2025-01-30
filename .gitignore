@@ -2,7 +2,7 @@
 Minecraft_Plugin/
 
 # Ignorer le fichier spécifique dans src/
-src/Minecraft_Plugin.iml
+Minecraft_Plugin.iml
 
 # Ignorer le fichier JAR
 spigot-api-1.21.4-RO.1-SNAPSHOT.jar
