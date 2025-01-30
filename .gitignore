@@ -1,5 +1,4 @@
 # Ignorer le dossier Minecraft_Plugin
-Minecraft_Plugin/
 
 # Ignorer le fichier spécifique dans src/
 Minecraft_Plugin.iml
