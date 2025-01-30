@@ -14,7 +14,7 @@ public class CommandTeva implements CommandExecutor {
     public boolean onCommand(CommandSender commandSender, Command command, String s, String[] strings) {
         if(commandSender instanceof Player){
             Player joueur = (Player) commandSender;
-            joueur.sendMessage(ChatColor.RED    + "Tu est un joueur" + joueur.getName());
+            joueur.sendMessage(ChatColor.RED + "Tu est un joueur" + joueur.getName());
         }
         else if(commandSender instanceof ConsoleCommandSender){
             commandSender.sendMessage("Tu es dans la console");
