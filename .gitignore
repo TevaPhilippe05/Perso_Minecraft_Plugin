@@ -1,3 +1,18 @@
+# Ignorer le dossier Minecraft_Plugin
 Minecraft_Plugin/
+
+# Ignorer le fichier spécifique dans src/
 src/Minecraft_Plugin.iml
+
+# Ignorer le fichier JAR
 spigot-api-1.21.4-RO.1-SNAPSHOT.jar
+
+# Ignorer les fichiers IntelliJ IDEA
+*.iml
+.idea/
+out/
+target/
+
+# Ignorer les fichiers compilés et logs
+*.class
+*.log
