@@ -1,0 +1,8 @@
+main: fr.tevtev.Minecraft_Plugin.Main
+name: Minecraft_Plugin
+version: 1.0.0
+commands:
+  teva:
+    description: jsp
+    permission: Minecraft_Plugin.teva
+    usage: /<command>
