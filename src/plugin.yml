@@ -1,8 +1,9 @@
 main: fr.tevtev.Minecraft_Plugin.Main
 name: Minecraft_Plugin
 version: 1.0.0
+author: Teva_Philippe
 commands:
   teva:
-    description: jsp
+    description: Affiche si on est dans le terminal ou le jeu et ajoute le pseudo du joueur si on est dans le jeu
     permission: Minecraft_Plugin.teva
     usage: /<command>
